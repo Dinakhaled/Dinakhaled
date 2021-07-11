@@ -6,7 +6,7 @@
 <a href="https://linkedin.com/in/dina-elghndour" target="_blank"><img height="30" src="https://github.com/Dinakhaled/Dinakhaled/blob/main/images/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 </p>
     
-### Hi there 👋 🐧
+### Hi there 👋 😎
 
 I'm Dina Khaled, I specialize in creating front-end apps for web and mobile devices using modern tools and concepts, passion for responsive website design and a firm believer in the mobile-first approach.
 
