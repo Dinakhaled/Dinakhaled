@@ -1,11 +1,9 @@
-### Hi there 👋
-
 ![Banner](https://github.com/Dinakhaled/Dinakhaled/blob/main/images/gh-banner.png)
 ---
 <p align='center'>
 <a href="https://dev.to/dinakhaled" target="_blank"><img height="30" src="https://github.com/Dinakhaled/Dinakhaled/blob/main/images/dev-community.png"></a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/dina-elghndour" target="_blank"><img height="30" src="https://github.com/Dinakhaled/Dinakhaled/blob/main/images/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://medium.com/@dina-elghndour" target="_blank"><img height="30" src="https://github.com/Dinakhaled/Dinakhaled/blob/main/images/medium.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/dina-elghndour" target="_blank"><img height="30" src="https://github.com/Dinakhaled/Dinakhaled/blob/main/images/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 </p>
     
 ### Hi there 👋 🐧
@@ -27,7 +25,7 @@ I like to write a lot, mostly technical articles, you can see a full list here [
 | <img height="30" src="https://github.com/Dinakhaled/Dinakhaled/blob/main/images/react.png?raw=true">  | <img height="30" src="https://github.com/Dinakhaled/Dinakhaled/blob/main/images/redux.png?raw=true">  | <img height="30" src="https://github.com/Dinakhaled/Dinakhaled/blob/main/images/gatsby.png?raw=true">  | <img height="30"
 src="https://github.com/Dinakhaled/Dinakhaled/blob/main/images/vue.png?raw=true">  | <img height="30" 
 src="https://github.com/Dinakhaled/Dinakhaled/blob/main/images/graphql.png?raw=true"> |
-|---|---|---|---|---|---|
+|---|---|---|---|---|
 
 
 ### Last articles on [dev.to](https://dev.to/dinakhaled) and [Medium](https://medium.com/@dina-elghndour) 👨🏼‍💻
