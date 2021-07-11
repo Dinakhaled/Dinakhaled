@@ -22,9 +22,7 @@ I like to write a lot, mostly technical articles, you can see a full list here [
 
 ### Frameworks & Technologies
 
-| <img height="30" src="https://github.com/Dinakhaled/Dinakhaled/blob/main/images/react.png?raw=true">  | <img height="30" src="https://github.com/Dinakhaled/Dinakhaled/blob/main/images/redux.png?raw=true">  | <img height="30" src="https://github.com/Dinakhaled/Dinakhaled/blob/main/images/gatsby.png?raw=true">  | <img height="30"
-src="https://github.com/Dinakhaled/Dinakhaled/blob/main/images/vue.png?raw=true">  | <img height="30" 
-src="https://github.com/Dinakhaled/Dinakhaled/blob/main/images/graphql.png?raw=true"> |
+| <img height="30" src="https://github.com/Dinakhaled/Dinakhaled/blob/main/images/react.png?raw=true">  | <img height="30" src="https://github.com/Dinakhaled/Dinakhaled/blob/main/images/redux.png?raw=true">  | <img height="30" src="https://github.com/Dinakhaled/Dinakhaled/blob/main/images/gatsby.png?raw=true">  | <img height="30" src="https://github.com/Dinakhaled/Dinakhaled/blob/main/images/vue.png?raw=true">  | <img height="30" src="https://github.com/Dinakhaled/Dinakhaled/blob/main/images/graphql.png?raw=true">  |
 |---|---|---|---|---|
 
 
