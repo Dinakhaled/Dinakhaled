@@ -26,7 +26,7 @@ I like to write a lot, mostly technical articles, you can see a full list here [
 |---|---|---|---|---|---|
 
 
-### Last articles on [dev.to](https://dev.to/dinakhaled) and [Medium](https://medium.com/@dina-elghndour) 👨🏼‍💻
+### Last articles on [dev.to](https://dev.to/dinakhaled) and [Medium](https://medium.com/@dina-elghndour) 👩‍💻
 
 <!-- BLOG-POST-LIST:START -->
 - [Find A Quick Way To STYLE IN REACT](https://dev.to/dinakhaled/find-a-quick-way-to-styling-in-react-94a)
